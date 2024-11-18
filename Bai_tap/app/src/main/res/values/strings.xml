@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2_Bai_1</string>
+    <string name="edtF">Fahrenheit</string>
+    <string name="edtC">Celsius</string>
+    <string name="btnC">Convert to Celsius</string>
+    <string name="btnF">Convert to Fahrenheit</string>
+    <string name="btnClear">Clear</string>
+</resources>
